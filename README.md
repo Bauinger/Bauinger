@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Bauinger
+- 👀 I’m interested in Web Development, Service Engineering, Infromation Engineering and Data Engineering.
+- 🌱 I’m currently learning 
+-- Vue.js
+-- Nuxt.js
+-- Angular 2
+-- Firebase
+-- GCP
+-- Respberry PI
+-- SQL
+-- MongoDB
+-- Electron
+-- NGXS
+-- Vuex
+-- Vuetify
+...
